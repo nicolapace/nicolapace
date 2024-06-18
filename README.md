@@ -1,6 +1,6 @@
 ## Hi there, I'm Nicola 👋🎓‍
 
-I'm a **R&D Software Engineer** who is enthusiastic, passionate and curious about new technologies. Spending my free time playing CTFs and studying various topics.
+I'm an **R&D Software Engineer** who is enthusiastic, passionate and curious about new technologies. Spending my free time playing CTFs and studying various topics.
 
 <!--
 **nicolapace/nicolapace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
